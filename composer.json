@@ -1,0 +1,17 @@
+{
+    "name": "nathalie/twigquest",
+    "autoload": {
+        "psr-4": {
+            "Nathalie\\Twigquest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CHARLES Nathalie",
+            "email": "charlnathalie@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "~1.0"
+    }
+}
